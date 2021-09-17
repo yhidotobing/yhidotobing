@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yhidotobing
-- 👀 I’m interested in Full Stack Java Engineer
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Full Stack Javascript 
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Tobing#4992 (discord)
 
